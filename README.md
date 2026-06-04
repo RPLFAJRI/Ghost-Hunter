@@ -160,7 +160,7 @@ Method `update()` dan `draw()` diimplementasikan berbeda di setiap kelas sesuai 
 
 | Tampilan | Deskripsi |
 |----------|-----------|
-| ![image alt](https://github.com/RPLFAJRI/Ghost-Hunter/blob/d358c541f26c4b5515a4404949a92abf718e72a2/Menu.png) | Main Menu dengan tombol Play, About, Controls, Exit |
+| ![image alt](https://github.com/RPLFAJRI/Ghost-Hunter/blob/d765a76054dafd599a486a0e42f741b1027122a8/MEENU.png) | Main Menu dengan tombol Play, About, Controls, Exit |
 | ![image alt](https://github.com/RPLFAJRI/Ghost-Hunter/blob/7e47547e0d9c3c304a19472f6e7909ac2c5772d5/Gameplay.png) | Gameplay dengan HP bar, grenade counter, dan musuh |
 | ![image alt](https://github.com/RPLFAJRI/Ghost-Hunter/blob/d358c541f26c4b5515a4404949a92abf718e72a2/Win.png) | Layar kemenangan setelah menyelesaikan semua level |
 
