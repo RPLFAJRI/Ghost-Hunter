@@ -200,7 +200,7 @@ class GameManager:
             self.player.jump = True
             self.jump_fx.play()
 
-        if key == 1 and self.player:
+        if key == pygame.K_SPACE or key == 1 and self.player:
             x, y = self.player.rect.center
             bullet = Bullet(x, y, self.player.direction,
                             (240, 240, 240), 1, self.win)
